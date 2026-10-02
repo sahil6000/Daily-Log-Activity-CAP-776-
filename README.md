@@ -222,4 +222,3 @@ This repository contains the implementation and final report for:
 
 **CAP776 — Programming in Python**  
 **Minor Project #1 — My Data, My Story**
-
